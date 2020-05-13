@@ -1,0 +1,7 @@
+D:\repos\6lix\test2\test\zad1\bin\Debug\zad1.exe.config
+D:\repos\6lix\test2\test\zad1\bin\Debug\zad1.exe
+D:\repos\6lix\test2\test\zad1\bin\Debug\zad1.pdb
+D:\repos\6lix\test2\test\zad1\obj\Debug\zad1.csprojAssemblyReference.cache
+D:\repos\6lix\test2\test\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\repos\6lix\test2\test\zad1\obj\Debug\zad1.exe
+D:\repos\6lix\test2\test\zad1\obj\Debug\zad1.pdb
